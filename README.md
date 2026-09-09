@@ -31,9 +31,3 @@ Desenvolvedor em formação, cursando Análise e Desenvolvimento de Sistemas, co
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-eduardo-souza-77b981393)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:codevvitor@gmail.com)
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=codevvitor&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
-![Streak](https://streak-stats.demolab.com/?user=codevvitor&theme=gotham&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codevvitor&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
